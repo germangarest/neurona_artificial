@@ -2,6 +2,8 @@
 
 Aplicación web interactiva desarrollada con Streamlit que simula el funcionamiento de diferentes tipos de neuronas artificiales, desde modelos simples hasta más complejos.
 
+![Neurona](img/neurona.jpg)
+
 ## ✨ Características
 
 - Interfaz web intuitiva desarrollada con Streamlit
